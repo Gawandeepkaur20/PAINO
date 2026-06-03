@@ -20,9 +20,7 @@ A responsive web-based Virtual Piano application that allows users to play piano
 * CSS3
 * JavaScript (ES6)
 
-## 📸 Screenshot
 
-![Virtual Piano](screenshot.png)
 
 ## 🎹 Keyboard Controls
 
@@ -58,9 +56,9 @@ A responsive web-based Virtual Piano application that allows users to play piano
 ```text
 Piano/
 │
-├── index.html
+├── paino.html
 ├── paino.css
-├── script.js
+├── paino.js
 └── README.md
 ```
 
